@@ -1,3 +1,11 @@
+## 4.1.1 (2024-10-15)
+
+
+### Bug Fixes
+
+* augment vue rather than @vue/runtime-core ([83b0af1](https://github.com/vuejs/vuex/commit/83b0af1d3aaeaff4e541f8abeee61859f8d372ff))
+
+
 # [4.1.0](https://github.com/vuejs/vuex/compare/v4.0.2...v4.1.0) (2022-10-14)
 
 ### Vue Core Version Requirement Change
